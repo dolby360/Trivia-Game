@@ -76,6 +76,37 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="editor.h" />
+    <ClInclude Include="files.h" />
+    <ClInclude Include="general.h" />
+    <ClInclude Include="guide.h" />
+    <ClInclude Include="menus.h" />
+    <ClInclude Include="MinUnit.h" />
+    <ClInclude Include="play.h" />
+    <ClInclude Include="student.h" />
+    <ClInclude Include="test.h" />
+    <ClInclude Include="time_calculate.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="driver.c" />
+    <ClCompile Include="editor.c" />
+    <ClCompile Include="files.c" />
+    <ClCompile Include="general.c" />
+    <ClCompile Include="guide.c" />
+    <ClCompile Include="menus.c" />
+    <ClCompile Include="play.c" />
+    <ClCompile Include="student.c" />
+    <ClCompile Include="test.c" />
+    <ClCompile Include="time_calculate.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="data\bestResult.txt" />
+    <Text Include="data\comments_for_dev.txt" />
+    <Text Include="data\fakeAnswers.txt" />
+    <Text Include="data\instructions.txt" />
+    <Text Include="data\messages.txt" />
+    <Text Include="data\questions.txt" />
+    <Text Include="data\users.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

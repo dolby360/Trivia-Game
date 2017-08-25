@@ -1,0 +1,193 @@
+32
+Complete the following code in C to print "Hello":int main(){___; return 0;}
+printf("Hello")
+3
+2
+0
+$
+Which of the following is a way to increment a variable using just one line of code?
+i++
+4
+2
+0
+$
+Which of the options does not represent a programming language?
+ADR
+5
+2
+0
+$
+In coding in general, what statement must come after completing "if" block in C? 
+Nothing
+6
+3
+0
+$
+In C, what value will the following function return? char func(){return 65;}
+A
+7
+1
+0
+$
+Which of the following options present the processes in software development in the correct order?
+specifications, design, validation, evolution
+8
+3
+0
+$
+Which of the following describes engineering best?
+Using theoretical knowledge to find simple and practical solutions
+9
+3
+0
+$
+How can I define a library function in C?
+include ____
+10
+4
+0
+$
+Which of the following is a benefit of unit testing?
+All the answers are correct
+11
+4
+0
+$
+Which type of architecture is the best for process which analyses input and receiving output- without user interference?
+Pipe and Filter
+12
+4
+0
+$
+Why do we use exceptions in our code?
+To prevent the program from collapsing in case of an error
+13
+5
+0
+$
+In which case do we have to use a destructor in c++?
+In case memory was allocated
+14
+6
+0
+$
+Which of the following describes best the motivation to use dynamic memory allocation?
+To minimize memory usage
+15
+6
+0
+$
+Who is in charge of unit testing?
+Developers
+16
+6
+0
+$
+Which of the following languages is object oriented?
+Python
+17
+1
+0
+$
+Which of the following is a browser based language?
+JavaScript
+18
+7
+0
+$
+What is a pseudo code?
+A general code that has no specific language
+19
+7
+0
+$
+What is an abstract class?
+A class that can't be instantiated
+20
+8
+0
+$
+What does an abstract method do?
+It declares an access modifier, return type and method signature
+21
+8
+0
+$
+Which of the following options does not represent a programming language?
+ADR
+22
+9
+0
+$
+When do we use anonymous methods?
+When we want to use a method only once
+23
+9
+0
+$
+What is the name of the process that translates high level language to machine language?
+Compilation
+24
+9
+0
+$
+How do we call the program that processes statements written in a particular programming language?
+Compiler
+25
+10
+0
+$
+Which option do I need to choose if I want to write text in a file in C, without deleting the text that it already included?
+a
+26
+10
+0
+$
+Who does release testing?
+The users
+27
+5
+0
+$
+How we need to define a function which does not return a value?
+void func()
+28
+5
+0
+$
+In which header file is the NULL macro defined?
+stdio.h and stddef.h
+29
+10
+0
+$
+If a variable is a pointer to a structure, which of the following operators is used to access data members of the structure through the pointer variable?
+->
+30
+8
+0
+$
+What is software re-engineering?
+A process to upgrade the technology on which the software is built without changing the functionality of the software
+31
+8
+0
+$
+How many types of boolean values exist?
+2
+32
+1
+0
+$
+What will be the output of this code: int x=5; x+=2.4; printf("%d",x);?
+7
+33
+2
+0
+$
+test q
+1
+34
+5
+0
+$
